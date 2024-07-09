@@ -38,16 +38,14 @@ For example:
 
 The script will display a list of all available glyphs in the following format:
 
-
-Available glyphs in the font Monocraft.ttf:
+`Available glyphs in the font Monocraft.ttf:
 ========================================
 U+0020 |   | SPACE
 U+0021 | ! | EXCLAMATION MARK
 U+0022 | " | QUOTATION MARK
 ...
 ========================================
-Total available glyphs: X
-
+Total available glyphs: X`
 
 Where:
 - U+XXXX is the Unicode code point
