@@ -15,6 +15,7 @@ This Python script allows you to check and display all available glyphs in a giv
 
 - Python 3.6+
 - fonttools library
+- bdflib
 
 ## Installation
 
