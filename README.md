@@ -19,7 +19,7 @@ This Python script allows you to check and display all available glyphs in a giv
 
 ## Installation
 
-1. Clone this repository or download the unicode_glyph_checker.py file.
+1. Clone this repository or download the `pycharmap-unicode.py` file.
 
 2. Install the required library:
 
@@ -29,11 +29,11 @@ This Python script allows you to check and display all available glyphs in a giv
 
 Run the script from the command line, providing the path to the font file as an argument:
 
-`python unicode_glyph_checker.py <font_file_path>`
+`python pycharmap-unicode.py <font_file_path>`
 
 For example:
 
-`python unicode_glyph_checker.py Monocraft.ttf`
+`python pycharmap-unicode.py Monocraft.ttf`
 
 ## Output
 
